@@ -1,0 +1,3348 @@
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 100px;
+gap: 100px;
+
+position: relative;
+width: 2120px;
+height: 2297.41px;
+
+background: #FFFFFF;
+border: 1px solid rgba(0, 0, 0, 0.1);
+border-radius: 2px;
+
+
+/* 1920w light */
+
+width: 1920px;
+height: 2097.41px;
+overflow-y: scroll;
+
+background: linear-gradient(0deg, #EBECEE, #EBECEE), #FFFFFF;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Section */
+
+position: absolute;
+height: 319.66px;
+left: 0px;
+right: 0px;
+top: 80px;
+
+background: linear-gradient(91.26deg, #002F52 35.49%, #326589 100%);
+
+
+/* Heading 2 → Já sabe por onde começar? */
+
+position: absolute;
+width: 509.95px;
+height: 36px;
+left: calc(50% - 509.95px/2 + 0.19px);
+top: 96px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 36px;
+line-height: 36px;
+/* identical to box height, or 100% */
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* Encontre em nossa estante o que precisa para seu desenvolvimento! */
+
+position: absolute;
+width: 558.79px;
+height: 16px;
+left: calc(50% - 558.79px/2 + 0.14px);
+top: 148px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 16px;
+/* identical to box height, or 100% */
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* Input */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 672px;
+height: 43.66px;
+left: calc(50% - 672px/2);
+top: 180px;
+
+border: 1px solid #FFFFFF;
+border-radius: 24px;
+
+
+/* Background */
+
+position: absolute;
+height: 21px;
+left: 14.33px;
+right: 27.33px;
+top: 11.33px;
+
+
+
+/* Lupa.svg fill */
+
+position: absolute;
+width: 630.34px;
+height: 21px;
+left: 0px;
+top: 0px;
+
+
+
+/* Lupa.svg */
+
+position: absolute;
+width: 18px;
+height: 18px;
+left: 168px;
+top: calc(50% - 18px/2);
+
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 2.83%;
+top: 0%;
+bottom: 2.83%;
+
+background: #FFFFFF;
+
+
+/* Qual será sua próxima leitura? */
+
+position: absolute;
+width: 213.96px;
+height: 20px;
+left: calc(50% - 213.96px/2 + 0.18px);
+top: 0px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 21px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* Header */
+
+position: absolute;
+height: 80px;
+left: 0px;
+right: 0px;
+top: 0px;
+
+background: #FFFFFF;
+
+
+/* Logo.svg */
+
+position: absolute;
+width: 72px;
+height: 72px;
+left: 0px;
+top: calc(50% - 72px/2);
+
+
+
+/* Logo.svg fill */
+
+position: absolute;
+width: 72px;
+height: 72px;
+left: 0px;
+top: 0px;
+
+
+
+/* Logo.svg */
+
+position: absolute;
+width: 40px;
+height: 40px;
+left: calc(50% - 40px/2);
+top: calc(50% - 40px/2);
+
+
+
+/* Vector */
+
+position: absolute;
+left: 9.63%;
+right: 9.63%;
+top: 4.3%;
+bottom: 10.29%;
+
+background: #FECD2F;
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: linear-gradient(180deg, #FD8325 67.71%, #FC6621 100%);
+
+
+/* Heading 1 */
+
+position: absolute;
+width: 151.98px;
+height: 30px;
+left: 72px;
+top: calc(50% - 30px/2);
+
+
+
+/* AluraBooks */
+
+position: absolute;
+width: 152.3px;
+height: 31px;
+left: 0px;
+top: -1px;
+
+font-family: 'Josefin Sans';
+font-style: normal;
+font-weight: 100;
+font-size: 30px;
+line-height: 30px;
+/* or 100% */
+display: flex;
+align-items: center;
+
+color: #000000;
+
+
+
+/* List */
+
+position: absolute;
+width: 401.66px;
+height: 80px;
+left: 223.98px;
+top: calc(50% - 80px/2);
+
+
+
+/* Label → Item → Categorias */
+
+position: absolute;
+width: 99.23px;
+height: 23px;
+left: 16px;
+top: 28px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 16px;
+/* or 100% */
+display: flex;
+align-items: center;
+/* For hanging lists, 0 padding should be applied to the <ul> element. */
+list-style-position: outside;
+padding: 0;
+text-transform: uppercase;
+
+color: #000000;
+
+
+
+/* Item → Link → Favoritos */
+
+position: absolute;
+width: 86.86px;
+height: 23px;
+left: 146.88px;
+top: 28px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 16px;
+/* or 100% */
+display: flex;
+align-items: center;
+text-transform: uppercase;
+
+color: #000000;
+
+
+
+/* Item → Link → Minha estante */
+
+position: absolute;
+width: 120.64px;
+height: 23px;
+left: 265.41px;
+top: 28px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 16px;
+/* or 100% */
+display: flex;
+align-items: center;
+text-transform: uppercase;
+
+color: #000000;
+
+
+
+/* Link */
+
+position: absolute;
+width: 195.16px;
+height: 64px;
+left: 1552.78px;
+top: calc(50% - 64px/2);
+
+
+
+/* Compras.svg */
+
+position: absolute;
+width: 58px;
+height: 64px;
+left: 0px;
+top: calc(50% - 64px/2);
+
+
+
+/* Compras.svg fill */
+
+position: absolute;
+width: 58px;
+height: 64px;
+left: 0px;
+top: 0px;
+
+
+
+/* Compras.svg */
+
+position: absolute;
+width: 26px;
+height: 32px;
+left: calc(50% - 26px/2);
+top: calc(50% - 32px/2);
+
+
+
+/* Vector */
+
+position: absolute;
+left: 1.28%;
+right: 1.28%;
+top: 0.52%;
+bottom: 0.52%;
+
+background: #002F52;
+
+
+/* Minha sacola */
+
+position: absolute;
+width: 107.53px;
+height: 16px;
+left: 58px;
+top: 24px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 16px;
+/* identical to box height, or 100% */
+display: flex;
+align-items: center;
+
+color: #000000;
+
+
+
+/* Link */
+
+position: absolute;
+width: 172.06px;
+height: 64px;
+left: 1747.94px;
+top: calc(50% - 64px/2);
+
+
+
+/* Usuario.svg */
+
+position: absolute;
+width: 64px;
+height: 64px;
+left: 0px;
+top: calc(50% - 64px/2);
+
+
+
+/* Usuario.svg fill */
+
+position: absolute;
+width: 64px;
+height: 64px;
+left: 0px;
+top: 0px;
+
+
+
+/* Usuario.svg */
+
+position: absolute;
+width: 32px;
+height: 32px;
+left: calc(50% - 32px/2);
+top: calc(50% - 32px/2);
+
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: #002F52;
+
+
+/* Meu perfil */
+
+position: absolute;
+width: 78.38px;
+height: 16px;
+left: 64px;
+top: 24px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 16px;
+/* identical to box height, or 100% */
+display: flex;
+align-items: center;
+
+color: #000000;
+
+
+
+/* Section */
+
+position: absolute;
+height: 353px;
+left: 0px;
+right: 0px;
+top: 399.66px;
+
+
+
+/* Heading 2 */
+
+position: absolute;
+height: 65px;
+left: 0px;
+right: 0px;
+top: 0px;
+
+background: #FFFFFF;
+
+
+/* Novos lançamentos */
+
+position: absolute;
+width: 300.6px;
+height: 36px;
+left: calc(50% - 300.6px/2 + 0.16px);
+top: 21px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 26px;
+line-height: 26px;
+/* or 100% */
+display: flex;
+align-items: center;
+text-align: center;
+text-transform: uppercase;
+
+color: #EB9B00;
+
+
+
+/* Background+Shadow */
+
+position: absolute;
+left: 47.5%;
+right: 20.83%;
+top: 81px;
+bottom: 16px;
+
+background: #FFFFFF;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 10px;
+
+
+/* Heading 3 */
+
+position: absolute;
+height: 64px;
+left: 16px;
+right: 178px;
+top: 16px;
+
+
+
+/* Talvez você também se interesse por... */
+
+position: absolute;
+width: 387.25px;
+height: 77px;
+left: 0px;
+top: -7px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 32px;
+line-height: 32px;
+/* or 100% */
+display: flex;
+align-items: center;
+
+color: #EB9B00;
+
+
+
+/* Heading 2 → Angular 11 e Firebase */
+
+position: absolute;
+width: 190.94px;
+height: 18px;
+left: 16px;
+top: 89px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 18px;
+line-height: 18px;
+/* identical to box height, or 100% */
+display: flex;
+align-items: center;
+
+color: #002F52;
+
+
+
+/* Construindo uma aplicação integrada com a plataforma do Google. */
+
+position: absolute;
+width: 364.75px;
+height: 39px;
+left: 16px;
+top: 112px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 16px;
+/* or 100% */
+display: flex;
+align-items: center;
+
+color: #000000;
+
+
+
+/* Angular.svg */
+
+position: absolute;
+width: 162px;
+left: 430px;
+top: 16px;
+bottom: 72px;
+
+
+
+/* Angular.svg fill */
+
+position: absolute;
+width: 162px;
+height: 168px;
+left: 0px;
+top: 0px;
+
+
+
+/* Angular.svg */
+
+position: absolute;
+width: 162px;
+height: 168px;
+left: calc(50% - 162px/2);
+top: calc(50% - 168px/2);
+
+
+
+/* Vector */
+
+position: absolute;
+left: -8.02%;
+right: -8.02%;
+top: -5.36%;
+bottom: -6.55%;
+
+background: url(b.png);
+
+
+/* List */
+
+position: absolute;
+width: 93px;
+left: 16px;
+top: 192px;
+bottom: 16px;
+
+
+
+/* Item → Favoritos.svg */
+
+position: absolute;
+width: 35px;
+height: 32px;
+left: 8px;
+top: 0px;
+
+
+
+/* Favoritos.svg fill */
+
+position: absolute;
+width: 35px;
+height: 32px;
+left: 0px;
+top: 0px;
+
+
+
+/* Favoritos.svg */
+
+position: absolute;
+width: 35px;
+height: 32px;
+left: calc(50% - 35px/2);
+top: calc(50% - 32px/2);
+
+
+
+/* Vector */
+
+position: absolute;
+left: 0.35%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: linear-gradient(97.54deg, #002F52 35.49%, #326589 165.37%);
+
+
+/* Item → Compras.svg */
+
+position: absolute;
+width: 26px;
+height: 32px;
+left: 59px;
+top: 0px;
+
+
+
+/* Compras.svg fill */
+
+position: absolute;
+width: 26px;
+height: 32px;
+left: 0px;
+top: 0px;
+
+
+
+/* Compras.svg */
+
+position: absolute;
+width: 26px;
+height: 32px;
+left: calc(50% - 26px/2);
+top: calc(50% - 32px/2);
+
+
+
+/* Vector */
+
+position: absolute;
+left: 1.28%;
+right: 1.28%;
+top: 0.52%;
+bottom: 0.52%;
+
+background: #002F52;
+
+
+/* Link */
+
+position: absolute;
+width: 162.39px;
+left: 429.61px;
+top: 192px;
+bottom: 16px;
+
+background: #EB9B00;
+
+
+/* Saiba mais */
+
+position: absolute;
+width: 92.36px;
+height: 23px;
+left: 35.19px;
+top: 12px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 16px;
+/* or 100% */
+display: flex;
+align-items: center;
+
+color: #FFFFFF;
+
+
+
+/* Container */
+
+position: absolute;
+width: 480px;
+left: calc(50% - 480px/2 - 336px);
+top: 65px;
+bottom: 0px;
+
+
+
+/* Background */
+
+position: absolute;
+width: 8px;
+height: 8px;
+left: calc(50% - 8px/2 - 24px);
+top: 21px;
+
+background: #007AFF;
+border-radius: 4px;
+
+
+/* Background */
+
+position: absolute;
+width: 8px;
+height: 8px;
+left: calc(50% - 8px/2 - 8px);
+top: 21px;
+
+background: #000000;
+opacity: 0.2;
+border-radius: 4px;
+
+
+/* Background */
+
+position: absolute;
+width: 8px;
+height: 8px;
+left: calc(50% - 8px/2 + 8px);
+top: 21px;
+
+background: #000000;
+opacity: 0.2;
+border-radius: 4px;
+
+
+/* Background */
+
+position: absolute;
+width: 8px;
+height: 8px;
+left: calc(50% - 8px/2 + 24px);
+top: 21px;
+
+background: #000000;
+opacity: 0.2;
+border-radius: 4px;
+
+
+/* Group - 1 / 6 → ApacheKafka.svg */
+
+position: absolute;
+height: 215.03px;
+left: 0px;
+right: 326.67px;
+top: 48px;
+
+
+
+/* ApacheKafka.svg fill */
+
+position: absolute;
+width: 153.33px;
+height: 215.03px;
+left: 0px;
+top: 0px;
+
+
+
+/* ApacheKafka.svg */
+
+position: absolute;
+width: 153.33px;
+height: 215.03px;
+left: calc(50% - 153.33px/2 + 0px);
+top: calc(50% - 215.03px/2);
+
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 0.34%;
+top: 0%;
+bottom: 0%;
+
+background: url(b.png);
+
+
+/* Group - 2 / 6 → Lideran%C3%A7a.svg */
+
+position: absolute;
+height: 215.03px;
+left: 163.33px;
+right: 163.34px;
+top: 48px;
+
+
+
+/* Lideran%C3%A7a.svg fill */
+
+position: absolute;
+width: 153.33px;
+height: 215.03px;
+left: 0px;
+top: 0px;
+
+
+
+/* Lideran%C3%A7a.svg */
+
+position: absolute;
+width: 153.33px;
+height: 215.03px;
+left: calc(50% - 153.33px/2 + 0px);
+top: calc(50% - 215.03px/2);
+
+
+
+/* Vector */
+
+position: absolute;
+left: 0.15%;
+right: 0.37%;
+top: 0%;
+bottom: 0%;
+
+background: url(b.png);
+
+
+/* Group - 3 / 6 → Javascript.svg */
+
+position: absolute;
+height: 215.03px;
+left: 326.66px;
+right: 0.01px;
+top: 48px;
+
+
+
+/* Javascript.svg fill */
+
+position: absolute;
+width: 153.33px;
+height: 215.03px;
+left: 0px;
+top: 0px;
+
+
+
+/* Javascript.svg */
+
+position: absolute;
+width: 153.33px;
+height: 215.03px;
+left: calc(50% - 153.33px/2 + 0px);
+top: calc(50% - 215.03px/2);
+
+
+
+/* Vector */
+
+position: absolute;
+left: 0.04%;
+right: 0.13%;
+top: 0%;
+bottom: 0%;
+
+background: url(b.png);
+
+
+/* prev */
+
+position: absolute;
+width: 22.81px;
+height: 45px;
+left: 10px;
+top: 149.79px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 22px;
+line-height: 44px;
+/* or 200% */
+display: flex;
+align-items: center;
+
+color: #007AFF;
+
+
+
+/* next */
+
+position: absolute;
+width: 22.81px;
+height: 45px;
+left: 443px;
+top: 149.79px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 22px;
+line-height: 44px;
+/* or 200% */
+display: flex;
+align-items: center;
+
+color: #007AFF;
+
+
+
+/* Section */
+
+position: absolute;
+height: 351px;
+left: 0px;
+right: 0px;
+top: 800.66px;
+
+
+
+/* Heading 2 */
+
+position: absolute;
+height: 65px;
+left: 0px;
+right: 0px;
+top: 0px;
+
+background: #FFFFFF;
+
+
+/* Mais vendidos */
+
+position: absolute;
+width: 207.06px;
+height: 36px;
+left: calc(50% - 207.06px/2 + 0.17px);
+top: 21px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 26px;
+line-height: 26px;
+/* or 100% */
+display: flex;
+align-items: center;
+text-align: center;
+text-transform: uppercase;
+
+color: #EB9B00;
+
+
+
+/* Background+Shadow */
+
+position: absolute;
+left: 47.5%;
+right: 20.83%;
+top: 81px;
+bottom: 16px;
+
+background: #FFFFFF;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 10px;
+
+
+/* Estrelinhas.svg */
+
+position: absolute;
+width: 91px;
+height: 15px;
+left: 16px;
+top: 16px;
+
+
+
+/* Estrelinhas.svg fill */
+
+position: absolute;
+width: 91px;
+height: 15px;
+left: 0px;
+top: 0px;
+
+
+
+/* Estrelinhas.svg */
+
+position: absolute;
+width: 91px;
+height: 15px;
+left: calc(50% - 91px/2);
+top: calc(50% - 15px/2);
+
+
+
+/* Vector */
+
+position: absolute;
+left: 0.4%;
+right: 83.92%;
+top: 0%;
+bottom: 9.55%;
+
+background: #EB9B00;
+
+
+/* Vector */
+
+position: absolute;
+left: 21.28%;
+right: 63.04%;
+top: 0%;
+bottom: 9.55%;
+
+background: #EB9B00;
+
+
+/* Vector */
+
+position: absolute;
+left: 42.16%;
+right: 42.16%;
+top: 0%;
+bottom: 9.55%;
+
+background: #EB9B00;
+
+
+/* Vector */
+
+position: absolute;
+left: 63.04%;
+right: 21.28%;
+top: 0%;
+bottom: 9.55%;
+
+background: #EB9B00;
+
+
+/* Vector */
+
+position: absolute;
+left: 83.92%;
+right: 0.4%;
+top: 0%;
+bottom: 9.55%;
+
+background: #EB9B00;
+
+
+/* Heading 3 → Autora do Mês */
+
+position: absolute;
+width: 236.96px;
+height: 32px;
+left: 16px;
+top: 34px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 32px;
+line-height: 32px;
+/* identical to box height, or 100% */
+display: flex;
+align-items: center;
+
+color: #EB9B00;
+
+
+
+/* Heading 2 → Juliana Agarikov */
+
+position: absolute;
+width: 158.46px;
+height: 18px;
+left: 16px;
+top: 75px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 18px;
+line-height: 18px;
+/* identical to box height, or 100% */
+display: flex;
+align-items: center;
+
+color: #002F52;
+
+
+
+/* Analista de sistemas e escritora, Juliana é especialista em Front-End. */
+
+position: absolute;
+width: 335.53px;
+height: 39px;
+left: 16px;
+top: 98px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 16px;
+/* or 100% */
+display: flex;
+align-items: center;
+
+color: #000000;
+
+
+
+/* Escritora.svg */
+
+position: absolute;
+width: 161px;
+left: 431px;
+top: 16px;
+bottom: 72px;
+
+
+
+/* Escritora.svg fill */
+
+position: absolute;
+width: 161px;
+height: 166px;
+left: 0px;
+top: 0px;
+
+
+
+/* Escritora.svg */
+
+position: absolute;
+width: 161px;
+height: 166px;
+left: calc(50% - 161px/2);
+top: calc(50% - 166px/2);
+
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: url(b);
+
+
+/* List */
+
+position: absolute;
+width: 93px;
+left: 16px;
+top: 190px;
+bottom: 16px;
+
+
+
+/* Item → Favoritos.svg */
+
+position: absolute;
+width: 35px;
+height: 32px;
+left: 8px;
+top: 0px;
+
+
+
+/* Favoritos.svg fill */
+
+position: absolute;
+width: 35px;
+height: 32px;
+left: 0px;
+top: 0px;
+
+
+
+/* Favoritos.svg */
+
+position: absolute;
+width: 35px;
+height: 32px;
+left: calc(50% - 35px/2);
+top: calc(50% - 32px/2);
+
+
+
+/* Vector */
+
+position: absolute;
+left: 0.35%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: linear-gradient(97.54deg, #002F52 35.49%, #326589 165.37%);
+
+
+/* Item → Compras.svg */
+
+position: absolute;
+width: 26px;
+height: 32px;
+left: 59px;
+top: 0px;
+
+
+
+/* Compras.svg fill */
+
+position: absolute;
+width: 26px;
+height: 32px;
+left: 0px;
+top: 0px;
+
+
+
+/* Compras.svg */
+
+position: absolute;
+width: 26px;
+height: 32px;
+left: calc(50% - 26px/2);
+top: calc(50% - 32px/2);
+
+
+
+/* Vector */
+
+position: absolute;
+left: 1.28%;
+right: 1.28%;
+top: 0.52%;
+bottom: 0.52%;
+
+background: #002F52;
+
+
+/* Link */
+
+position: absolute;
+width: 162.39px;
+left: 429.61px;
+top: 190px;
+bottom: 16px;
+
+background: #EB9B00;
+
+
+/* Saiba mais */
+
+position: absolute;
+width: 92.36px;
+height: 23px;
+left: 35.19px;
+top: 12px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 16px;
+/* or 100% */
+display: flex;
+align-items: center;
+
+color: #FFFFFF;
+
+
+
+/* Container */
+
+position: absolute;
+width: 480px;
+left: calc(50% - 480px/2 - 336px);
+top: 65px;
+bottom: 0px;
+
+
+
+/* Background */
+
+position: absolute;
+width: 8px;
+height: 8px;
+left: calc(50% - 8px/2 - 24px);
+top: 21px;
+
+background: #007AFF;
+border-radius: 4px;
+
+
+/* Background */
+
+position: absolute;
+width: 8px;
+height: 8px;
+left: calc(50% - 8px/2 - 8px);
+top: 21px;
+
+background: #000000;
+opacity: 0.2;
+border-radius: 4px;
+
+
+/* Background */
+
+position: absolute;
+width: 8px;
+height: 8px;
+left: calc(50% - 8px/2 + 8px);
+top: 21px;
+
+background: #000000;
+opacity: 0.2;
+border-radius: 4px;
+
+
+/* Background */
+
+position: absolute;
+width: 8px;
+height: 8px;
+left: calc(50% - 8px/2 + 24px);
+top: 21px;
+
+background: #000000;
+opacity: 0.2;
+border-radius: 4px;
+
+
+/* Group - 1 / 6 → ApacheKafka.svg */
+
+position: absolute;
+height: 215.03px;
+left: 0px;
+right: 326.67px;
+top: 48px;
+
+
+
+/* ApacheKafka.svg fill */
+
+position: absolute;
+width: 153.33px;
+height: 215.03px;
+left: 0px;
+top: 0px;
+
+
+
+/* ApacheKafka.svg */
+
+position: absolute;
+width: 153.33px;
+height: 215.03px;
+left: calc(50% - 153.33px/2 + 0px);
+top: calc(50% - 215.03px/2);
+
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 0.34%;
+top: 0%;
+bottom: 0%;
+
+background: url(b.png);
+
+
+/* Group - 2 / 6 → Lideran%C3%A7a.svg */
+
+position: absolute;
+height: 215.03px;
+left: 163.33px;
+right: 163.34px;
+top: 48px;
+
+
+
+/* Lideran%C3%A7a.svg fill */
+
+position: absolute;
+width: 153.33px;
+height: 215.03px;
+left: 0px;
+top: 0px;
+
+
+
+/* Lideran%C3%A7a.svg */
+
+position: absolute;
+width: 153.33px;
+height: 215.03px;
+left: calc(50% - 153.33px/2 + 0px);
+top: calc(50% - 215.03px/2);
+
+
+
+/* Vector */
+
+position: absolute;
+left: 0.15%;
+right: 0.37%;
+top: 0%;
+bottom: 0%;
+
+background: url(b.png);
+
+
+/* Group - 3 / 6 → Javascript.svg */
+
+position: absolute;
+height: 215.03px;
+left: 326.66px;
+right: 0.01px;
+top: 48px;
+
+
+
+/* Javascript.svg fill */
+
+position: absolute;
+width: 153.33px;
+height: 215.03px;
+left: 0px;
+top: 0px;
+
+
+
+/* Javascript.svg */
+
+position: absolute;
+width: 153.33px;
+height: 215.03px;
+left: calc(50% - 153.33px/2 + 0px);
+top: calc(50% - 215.03px/2);
+
+
+
+/* Vector */
+
+position: absolute;
+left: 0.04%;
+right: 0.13%;
+top: 0%;
+bottom: 0%;
+
+background: url(b.png);
+
+
+/* prev */
+
+position: absolute;
+width: 22.81px;
+height: 45px;
+left: 10px;
+top: 148.59px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 22px;
+line-height: 44px;
+/* or 200% */
+display: flex;
+align-items: center;
+
+color: #007AFF;
+
+
+
+/* next */
+
+position: absolute;
+width: 22.81px;
+height: 45px;
+left: 443px;
+top: 148.59px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 22px;
+line-height: 44px;
+/* or 200% */
+display: flex;
+align-items: center;
+
+color: #007AFF;
+
+
+
+/* Section */
+
+position: absolute;
+height: 320px;
+left: 0px;
+right: 0px;
+top: 1199.66px;
+
+background: linear-gradient(91.26deg, #002F52 35.49%, #326589 100%);
+
+
+/* Heading 2 → TÓPICOS VISITADOS RECENTEMENTE */
+
+position: absolute;
+width: 404.38px;
+height: 24px;
+left: calc(50% - 404.38px/2 + 0.17px);
+top: 48px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 300;
+font-size: 24px;
+line-height: 24px;
+/* identical to box height, or 100% */
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* List */
+
+position: absolute;
+height: 176px;
+left: 576px;
+right: 576px;
+top: 96px;
+
+
+
+/* Item → Link */
+
+position: absolute;
+width: 147.11px;
+height: 81px;
+left: calc(50% - 147.11px/2 - 287.64px);
+top: 3px;
+
+background: #EB9B00;
+
+
+/* Android */
+
+position: absolute;
+width: 99.46px;
+height: 33px;
+left: calc(50% - 99.46px/2 + 0.18px);
+top: 24px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 24px;
+/* or 100% */
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* Item → Link */
+
+position: absolute;
+width: 261.63px;
+height: 81px;
+left: calc(50% - 261.63px/2 - 67.27px);
+top: 3px;
+
+background: #EB9B00;
+
+
+/* Marketing Digital */
+
+position: absolute;
+width: 214px;
+height: 33px;
+left: calc(50% - 214px/2 + 0.18px);
+top: 24px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 24px;
+/* or 100% */
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* Item → Link */
+
+position: absolute;
+width: 110.94px;
+height: 81px;
+left: calc(50% - 110.94px/2 + 135.02px);
+top: 3px;
+
+background: #EB9B00;
+
+
+/* Agile */
+
+position: absolute;
+width: 63.33px;
+height: 33px;
+left: calc(50% - 63.33px/2 + 0.2px);
+top: 24px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 24px;
+/* or 100% */
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* Item → Link */
+
+position: absolute;
+width: 154.69px;
+height: 81px;
+left: calc(50% - 154.69px/2 + 283.82px);
+top: 3px;
+
+background: #EB9B00;
+
+
+/* Startups */
+
+position: absolute;
+width: 107.06px;
+height: 33px;
+left: calc(50% - 107.06px/2 + 0.18px);
+top: 24px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 24px;
+/* or 100% */
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* Item → Link */
+
+position: absolute;
+width: 190.34px;
+height: 81px;
+left: calc(50% - 190.34px/2 - 189.39px);
+top: 91px;
+
+background: #EB9B00;
+
+
+/* HTML & CSS */
+
+position: absolute;
+width: 142.65px;
+height: 33px;
+left: calc(50% - 142.65px/2 + 0.16px);
+top: 24px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 24px;
+/* or 100% */
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* Item → Link */
+
+position: absolute;
+width: 135.53px;
+height: 81px;
+left: calc(50% - 135.53px/2 - 10.46px);
+top: 91px;
+
+background: #EB9B00;
+
+
+/* Python */
+
+position: absolute;
+width: 87.87px;
+height: 33px;
+left: calc(50% - 87.87px/2 + 0.17px);
+top: 24px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 24px;
+/* or 100% */
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* Item → Link */
+
+position: absolute;
+width: 85.73px;
+height: 81px;
+left: calc(50% - 85.73px/2 + 116.17px);
+top: 91px;
+
+background: #EB9B00;
+
+
+/* OO */
+
+position: absolute;
+width: 38.04px;
+height: 33px;
+left: calc(50% - 38.04px/2 + 0.16px);
+top: 24px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 24px;
+/* or 100% */
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* Item → Link */
+
+position: absolute;
+width: 109.5px;
+height: 81px;
+left: calc(50% - 109.5px/2 + 229.8px);
+top: 91px;
+
+background: #EB9B00;
+
+
+/* Java */
+
+position: absolute;
+width: 61.89px;
+height: 33px;
+left: calc(50% - 61.89px/2 + 0.19px);
+top: 24px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 24px;
+/* or 100% */
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* Section */
+
+position: absolute;
+height: 208px;
+left: 0px;
+right: 0px;
+top: 1519.66px;
+
+background: #FFFFFF;
+
+
+/* Heading 2 */
+
+position: absolute;
+height: 48px;
+left: 592.08px;
+right: 982.33px;
+top: 48px;
+
+
+
+/* Fique por dentro das novidades! */
+
+position: absolute;
+width: 250.54px;
+height: 57px;
+left: 0px;
+top: -5px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 24px;
+/* or 100% */
+display: flex;
+align-items: center;
+
+background: linear-gradient(91.05deg, #002F52 35.49%, #326589 100%);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+background-clip: text;
+text-fill-color: transparent;
+
+
+
+/* Atualizações de e-books, novos livros, promoções e outros. */
+
+position: absolute;
+width: 297.79px;
+height: 39px;
+left: 592.08px;
+top: 108px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 300;
+font-size: 16px;
+line-height: 16px;
+/* or 100% */
+display: flex;
+align-items: center;
+
+background: linear-gradient(90.7deg, #002F52 35.49%, #326589 100%);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+background-clip: text;
+text-fill-color: transparent;
+
+
+
+/* Input */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 374.25px;
+height: 43.66px;
+left: calc(50% - 374.25px/2 + 180.79px);
+top: calc(50% - 43.66px/2 + 0px);
+
+background: #FFFFFF;
+border: 1px solid #002F52;
+border-radius: 24px;
+
+
+/* Background */
+
+position: absolute;
+height: 20px;
+left: 14.33px;
+right: 14.33px;
+top: 12.33px;
+
+
+
+/* Email.svg fill */
+
+position: absolute;
+width: 345.59px;
+height: 20px;
+left: 0px;
+top: 0px;
+
+
+
+/* Email.svg */
+
+position: absolute;
+width: 20px;
+height: 16px;
+left: 16.28px;
+top: calc(50% - 16px/2);
+
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: linear-gradient(97.54deg, #002F52 35.49%, #326589 165.37%);
+
+
+/* Cadastre seu e-mail */
+
+position: absolute;
+width: 166.94px;
+height: 19px;
+left: 26.66px;
+top: 0px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 13.3px;
+line-height: 20px;
+display: flex;
+align-items: center;
+
+color: #002F52;
+
+
+
+/* Separator */
+
+box-sizing: border-box;
+
+position: absolute;
+height: 2px;
+left: 0px;
+right: 0px;
+top: 1727.66px;
+
+border: 1px solid #9A9A9A;
+
+
+/* Footer */
+
+position: absolute;
+height: 367.75px;
+left: 0px;
+right: 0px;
+top: 1729.66px;
+
+background: #FFFFFF;
+
+
+/* Heading 2 → Grupo Alura */
+
+position: absolute;
+width: 143.9px;
+height: 33px;
+left: 150.5px;
+top: 11px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 24px;
+/* or 100% */
+display: flex;
+align-items: center;
+
+color: #000000;
+
+
+
+/* List */
+
+position: absolute;
+width: 191.94px;
+left: 563.11px;
+top: 16px;
+bottom: 16px;
+
+
+
+/* Item → Educação */
+
+position: absolute;
+width: 70.81px;
+height: 14px;
+left: 17px;
+top: 0px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 14px;
+/* identical to box height, or 100% */
+display: flex;
+align-items: center;
+/* For hanging lists, 0 padding should be applied to the <ul> element. */
+list-style-position: outside;
+padding: 0;
+
+color: #858585;
+
+
+
+/* Item */
+
+position: absolute;
+height: 35px;
+left: 17px;
+right: 0px;
+top: 23.59px;
+
+
+
+/* Caelum.svg */
+
+position: absolute;
+width: 35px;
+height: 35px;
+left: 0px;
+top: calc(50% - 35px/2);
+
+
+
+/* Caelum.svg fill */
+
+position: absolute;
+width: 35px;
+height: 35px;
+left: 0px;
+top: 0px;
+
+
+
+/* Caelum.svg */
+
+position: absolute;
+width: 35px;
+height: 35px;
+left: calc(50% - 35px/2);
+top: calc(50% - 35px/2);
+
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: url(b.png);
+
+
+/* Link → Caelum */
+
+position: absolute;
+width: 64.15px;
+height: 16px;
+left: 44.59px;
+top: 9.5px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 16px;
+/* identical to box height, or 100% */
+display: flex;
+align-items: center;
+
+color: #474646;
+
+
+
+/* Item */
+
+position: absolute;
+height: 35px;
+left: 17px;
+right: 0px;
+top: 68.18px;
+
+
+
+/* CasaDoCodigo.svg */
+
+position: absolute;
+width: 35px;
+height: 35px;
+left: 0px;
+top: calc(50% - 35px/2);
+
+
+
+/* CasaDoCodigo.svg fill */
+
+position: absolute;
+width: 35px;
+height: 35px;
+left: 0px;
+top: 0px;
+
+
+
+/* CasaDoCodigo.svg */
+
+position: absolute;
+width: 35px;
+height: 35px;
+left: calc(50% - 35px/2);
+top: calc(50% - 35px/2);
+
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: url(b.png);
+
+
+/* Link → Casa do Código */
+
+position: absolute;
+width: 130.64px;
+height: 16px;
+left: 44.59px;
+top: 9.5px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 16px;
+/* identical to box height, or 100% */
+display: flex;
+align-items: center;
+
+color: #474646;
+
+
+
+/* List */
+
+position: absolute;
+width: 229.22px;
+left: 1024.06px;
+top: 16px;
+bottom: 16px;
+
+
+
+/* Item → Educação online */
+
+position: absolute;
+width: 117.07px;
+height: 14px;
+left: 17px;
+top: 0px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 14px;
+/* identical to box height, or 100% */
+display: flex;
+align-items: center;
+/* For hanging lists, 0 padding should be applied to the <ul> element. */
+list-style-position: outside;
+padding: 0;
+
+color: #858585;
+
+
+
+/* Item */
+
+position: absolute;
+height: 35px;
+left: 17px;
+right: 0px;
+top: 23.59px;
+
+
+
+/* Alura.svg */
+
+position: absolute;
+width: 35px;
+height: 35px;
+left: 0px;
+top: calc(50% - 35px/2);
+
+
+
+/* Alura.svg fill */
+
+position: absolute;
+width: 35px;
+height: 35px;
+left: 0px;
+top: 0px;
+
+
+
+/* Alura.svg */
+
+position: absolute;
+width: 35px;
+height: 35px;
+left: calc(50% - 35px/2);
+top: calc(50% - 35px/2);
+
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: url(b.png);
+
+
+/* Link → Alura */
+
+position: absolute;
+width: 42.08px;
+height: 16px;
+left: 44.6px;
+top: 9.5px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 16px;
+/* identical to box height, or 100% */
+display: flex;
+align-items: center;
+
+color: #474646;
+
+
+
+/* Item */
+
+position: absolute;
+height: 35px;
+left: 17px;
+right: 0px;
+top: 68.18px;
+
+
+
+/* AluraEmpresas.svg */
+
+position: absolute;
+width: 35px;
+height: 35px;
+left: 0px;
+top: calc(50% - 35px/2);
+
+
+
+/* AluraEmpresas.svg fill */
+
+position: absolute;
+width: 35px;
+height: 35px;
+left: 0px;
+top: 0px;
+
+
+
+/* AluraEmpresas.svg */
+
+position: absolute;
+width: 35px;
+height: 35px;
+left: calc(50% - 35px/2);
+top: calc(50% - 35px/2);
+
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: url(b);
+
+
+/* Link → Alura para Empresas */
+
+position: absolute;
+width: 167.96px;
+height: 16px;
+left: 44.6px;
+top: 9.5px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 16px;
+/* identical to box height, or 100% */
+display: flex;
+align-items: center;
+
+color: #474646;
+
+
+
+/* Item */
+
+position: absolute;
+height: 35px;
+left: 17px;
+right: 0px;
+top: 112.78px;
+
+
+
+/* AluraLATAM.svg */
+
+position: absolute;
+width: 35px;
+height: 35px;
+left: 0px;
+top: calc(50% - 35px/2);
+
+
+
+/* AluraLATAM.svg fill */
+
+position: absolute;
+width: 35px;
+height: 35px;
+left: 0px;
+top: 0px;
+
+
+
+/* AluraLATAM.svg */
+
+position: absolute;
+width: 35px;
+height: 35px;
+left: calc(50% - 35px/2);
+top: calc(50% - 35px/2);
+
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: url(b.png);
+
+
+/* Link → Alura LATAM */
+
+position: absolute;
+width: 97.29px;
+height: 16px;
+left: 44.6px;
+top: 9.5px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 16px;
+/* identical to box height, or 100% */
+display: flex;
+align-items: center;
+
+color: #474646;
+
+
+
+/* Item */
+
+position: absolute;
+height: 35px;
+left: 17px;
+right: 0px;
+top: 157.37px;
+
+
+
+/* AluraStart.svg */
+
+position: absolute;
+width: 35px;
+height: 35px;
+left: 0px;
+top: calc(50% - 35px/2);
+
+
+
+/* AluraStart.svg fill */
+
+position: absolute;
+width: 35px;
+height: 35px;
+left: 0px;
+top: 0px;
+
+
+
+/* AluraStart.svg */
+
+position: absolute;
+width: 35px;
+height: 35px;
+left: calc(50% - 35px/2);
+top: calc(50% - 35px/2);
+
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: url(b);
+
+
+/* Link → Alura Start */
+
+position: absolute;
+width: 84.17px;
+height: 16px;
+left: 44.6px;
+top: 9.5px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 16px;
+/* identical to box height, or 100% */
+display: flex;
+align-items: center;
+
+color: #474646;
+
+
+
+/* Item */
+
+position: absolute;
+height: 35px;
+left: 17px;
+right: 0px;
+top: 201.97px;
+
+
+
+/* MusicDot.svg */
+
+position: absolute;
+width: 35px;
+height: 35px;
+left: 0px;
+top: calc(50% - 35px/2);
+
+
+
+/* MusicDot.svg fill */
+
+position: absolute;
+width: 35px;
+height: 35px;
+left: 0px;
+top: 0px;
+
+
+
+/* MusicDot.svg */
+
+position: absolute;
+width: 35px;
+height: 35px;
+left: calc(50% - 35px/2);
+top: calc(50% - 35px/2);
+
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: url(b);
+
+
+/* Link → Music Dot */
+
+position: absolute;
+width: 77.99px;
+height: 16px;
+left: 44.6px;
+top: 9.5px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 16px;
+/* identical to box height, or 100% */
+display: flex;
+align-items: center;
+
+color: #474646;
+
+
+
+/* Item */
+
+position: absolute;
+height: 35px;
+left: 17px;
+right: 0px;
+top: 246.56px;
+
+
+
+/* AluraLingua.svg */
+
+position: absolute;
+width: 35px;
+height: 35px;
+left: 0px;
+top: calc(50% - 35px/2);
+
+
+
+/* AluraLingua.svg fill */
+
+position: absolute;
+width: 35px;
+height: 35px;
+left: 0px;
+top: 0px;
+
+
+
+/* AluraLingua.svg */
+
+position: absolute;
+width: 35px;
+height: 35px;
+left: calc(50% - 35px/2);
+top: calc(50% - 35px/2);
+
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: url(b);
+
+
+/* Link → Alura Língua */
+
+position: absolute;
+width: 99.33px;
+height: 16px;
+left: 44.6px;
+top: 9.5px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 16px;
+/* identical to box height, or 100% */
+display: flex;
+align-items: center;
+
+color: #474646;
+
+
+
+/* Item */
+
+position: absolute;
+height: 35px;
+left: 17px;
+right: 0px;
+top: 291.15px;
+
+
+
+/* PM3.svg */
+
+position: absolute;
+width: 35px;
+height: 35px;
+left: 0px;
+top: calc(50% - 35px/2);
+
+
+
+/* PM3.svg fill */
+
+position: absolute;
+width: 35px;
+height: 35px;
+left: 0px;
+top: 0px;
+
+
+
+/* PM3.svg */
+
+position: absolute;
+width: 35px;
+height: 35px;
+left: calc(50% - 35px/2);
+top: calc(50% - 35px/2);
+
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: url(b.png);
+
+
+/* Link → PM3 */
+
+position: absolute;
+width: 32.87px;
+height: 16px;
+left: 44.6px;
+top: 9.5px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 16px;
+/* identical to box height, or 100% */
+display: flex;
+align-items: center;
+
+color: #474646;
+
+
+
+/* List */
+
+position: absolute;
+width: 247.17px;
+left: 1522.3px;
+top: 16px;
+bottom: 16px;
+
+
+
+/* Item → Comunidade */
+
+position: absolute;
+width: 92.97px;
+height: 14px;
+left: 17px;
+top: 0px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 14px;
+/* identical to box height, or 100% */
+display: flex;
+align-items: center;
+/* For hanging lists, 0 padding should be applied to the <ul> element. */
+list-style-position: outside;
+padding: 0;
+
+color: #858585;
+
+
+
+/* Item */
+
+position: absolute;
+height: 35px;
+left: 17px;
+right: 0px;
+top: 23.59px;
+
+
+
+/* HipstersTech.svg */
+
+position: absolute;
+width: 35px;
+height: 35px;
+left: 0px;
+top: calc(50% - 35px/2);
+
+
+
+/* HipstersTech.svg fill */
+
+position: absolute;
+width: 35px;
+height: 35px;
+left: 0px;
+top: 0px;
+
+
+
+/* HipstersTech.svg */
+
+position: absolute;
+width: 35px;
+height: 35px;
+left: calc(50% - 35px/2);
+top: calc(50% - 35px/2);
+
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: url(b);
+
+
+/* Link → Hipsters ponto Tech */
+
+position: absolute;
+width: 159.01px;
+height: 16px;
+left: 44.59px;
+top: 9.5px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 16px;
+/* identical to box height, or 100% */
+display: flex;
+align-items: center;
+
+color: #474646;
+
+
+
+/* Item */
+
+position: absolute;
+height: 35px;
+left: 17px;
+right: 0px;
+top: 68.18px;
+
+
+
+/* ScubaDev.svg */
+
+position: absolute;
+width: 35px;
+height: 35px;
+left: 0px;
+top: calc(50% - 35px/2);
+
+
+
+/* ScubaDev.svg fill */
+
+position: absolute;
+width: 35px;
+height: 35px;
+left: 0px;
+top: 0px;
+
+
+
+/* ScubaDev.svg */
+
+position: absolute;
+width: 35px;
+height: 35px;
+left: calc(50% - 35px/2);
+top: calc(50% - 35px/2);
+
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: url(b.png);
+
+
+/* Link → Scuba Dev */
+
+position: absolute;
+width: 85.8px;
+height: 16px;
+left: 44.59px;
+top: 9.5px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 16px;
+/* identical to box height, or 100% */
+display: flex;
+align-items: center;
+
+color: #474646;
+
+
+
+/* Item */
+
+position: absolute;
+height: 35px;
+left: 17px;
+right: 0px;
+top: 112.78px;
+
+
+
+/* LayersTech.svg */
+
+position: absolute;
+width: 35px;
+height: 35px;
+left: 0px;
+top: calc(50% - 35px/2);
+
+
+
+/* LayersTech.svg fill */
+
+position: absolute;
+width: 35px;
+height: 35px;
+left: 0px;
+top: 0px;
+
+
+
+/* LayersTech.svg */
+
+position: absolute;
+width: 35px;
+height: 35px;
+left: calc(50% - 35px/2);
+top: calc(50% - 35px/2);
+
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: url(b.png);
+
+
+/* Link → Layers ponto Tech */
+
+position: absolute;
+width: 145.73px;
+height: 16px;
+left: 44.59px;
+top: 9.5px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 16px;
+/* identical to box height, or 100% */
+display: flex;
+align-items: center;
+
+color: #474646;
+
+
+
+/* Item */
+
+position: absolute;
+height: 35px;
+left: 17px;
+right: 0px;
+top: 157.37px;
+
+
+
+/* LikeABoss.svg */
+
+position: absolute;
+width: 35px;
+height: 35px;
+left: 0px;
+top: calc(50% - 35px/2);
+
+
+
+/* LikeABoss.svg fill */
+
+position: absolute;
+width: 35px;
+height: 35px;
+left: 0px;
+top: 0px;
+
+
+
+/* LikeABoss.svg */
+
+position: absolute;
+width: 35px;
+height: 35px;
+left: calc(50% - 35px/2);
+top: calc(50% - 35px/2);
+
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: url(b);
+
+
+/* Link → Like a Boss */
+
+position: absolute;
+width: 85.46px;
+height: 16px;
+left: 44.59px;
+top: 9.5px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 16px;
+/* identical to box height, or 100% */
+display: flex;
+align-items: center;
+
+color: #474646;
+
+
+
+/* Item */
+
+position: absolute;
+height: 35px;
+left: 17px;
+right: 0px;
+top: 201.97px;
+
+
+
+/* CarreiraSemFronteira.svg */
+
+position: absolute;
+width: 35px;
+height: 35px;
+left: 0px;
+top: calc(50% - 35px/2);
+
+
+
+/* CarreiraSemFronteira.svg fill */
+
+position: absolute;
+width: 35px;
+height: 35px;
+left: 0px;
+top: 0px;
+
+
+
+/* CarreiraSemFronteira.svg */
+
+position: absolute;
+width: 35px;
+height: 35px;
+left: calc(50% - 35px/2);
+top: calc(50% - 35px/2);
+
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: url(b);
+
+
+/* Link → Carreira sem fronteiras */
+
+position: absolute;
+width: 185.92px;
+height: 16px;
+left: 44.59px;
+top: 9.5px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 16px;
+/* identical to box height, or 100% */
+display: flex;
+align-items: center;
+
+color: #474646;
+
+
+
+/* Item */
+
+position: absolute;
+height: 35px;
+left: 17px;
+right: 0px;
+top: 246.56px;
+
+
+
+/* HipstersJobs.svg */
+
+position: absolute;
+width: 35px;
+height: 35px;
+left: 0px;
+top: calc(50% - 35px/2);
+
+
+
+/* HipstersJobs.svg fill */
+
+position: absolute;
+width: 35px;
+height: 35px;
+left: 0px;
+top: 0px;
+
+
+
+/* HipstersJobs.svg */
+
+position: absolute;
+width: 35px;
+height: 35px;
+left: calc(50% - 35px/2);
+top: calc(50% - 35px/2);
+
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: url(b.png);
+
+
+/* Link → Hipsters ponto jobs */
+
+position: absolute;
+width: 153.85px;
+height: 16px;
+left: 44.59px;
+top: 9.5px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 16px;
+/* identical to box height, or 100% */
+display: flex;
+align-items: center;
+
+color: #474646;
+
+
+
+/* Item */
+
+position: absolute;
+height: 35px;
+left: 17px;
+right: 0px;
+top: 291.15px;
+
+
+
+/* GUJ.svg */
+
+position: absolute;
+width: 35px;
+height: 35px;
+left: 0px;
+top: calc(50% - 35px/2);
+
+
+
+/* GUJ.svg fill */
+
+position: absolute;
+width: 35px;
+height: 35px;
+left: 0px;
+top: 0px;
+
+
+
+/* GUJ.svg */
+
+position: absolute;
+width: 35px;
+height: 35px;
+left: calc(50% - 35px/2);
+top: calc(50% - 35px/2);
+
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: url(b.png);
+
+
+/* Link → GUJ */
+
+position: absolute;
+width: 32.12px;
+height: 16px;
+left: 44.59px;
+top: 9.5px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 16px;
+/* identical to box height, or 100% */
+display: flex;
+align-items: center;
+
+color: #474646;
